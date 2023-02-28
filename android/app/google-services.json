@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12531028875",
+    "project_id": "mobileshopping-ebfbc",
+    "storage_bucket": "mobileshopping-ebfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12531028875:android:2218be3cbe9b8e5517d58e",
+        "android_client_info": {
+          "package_name": "mobile_shopping.aap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12531028875-j02g477pptf5ergc07dr7e4s8c9dkddp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmSzs2W-RyEH6WgpjtIvlnPkd4131CVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12531028875-j02g477pptf5ergc07dr7e4s8c9dkddp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
